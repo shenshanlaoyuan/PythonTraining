@@ -1,26 +1,31 @@
 # PythonTraining
 
 
-## 1.Python»ù´¡
-[Linux²Ù×÷ÏµÍ³»ù´¡]()
-[PythonÓï·¨»ù´¡]()
-## 2.PythonºËĞÄ±à³Ì
-[PythonºËĞÄ±à³Ì]()
-[LinuxÏµÍ³±à³Ì]()
-[ÍøÂç±à³Ì]()
-[web·şÎñÆ÷°¸Àı]()
-[ÕıÔò±í´ïÊ½]()
-## 3.Êı¾İ½á¹¹ÓëËã·¨
+## 1.PythonåŸºç¡€
+[Linuxæ“ä½œç³»ç»ŸåŸºç¡€](http://shenshanlaoyuan.com/PythonTraining/linux%E5%9F%BA%E7%A1%80/)
+
+[Pythonè¯­æ³•åŸºç¡€](http://shenshanlaoyuan.com/PythonTraining/Python%E5%9F%BA%E7%A1%80/)
+## 2.Pythonæ ¸å¿ƒç¼–ç¨‹
+[Pythoné«˜çº§](http://shenshanlaoyuan.com/PythonTraining//Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B/python%E9%AB%98%E7%BA%A7/html%E7%89%88/python%E9%AB%98%E7%BA%A7-%E8%AF%BE%E4%BB%B6/)
+
+[ç³»ç»Ÿç¼–ç¨‹](http://shenshanlaoyuan.com/PythonTraining/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B/%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B/html%E7%89%88/%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B-%E5%AE%8C%E6%95%B4%E8%AF%BE%E4%BB%B6/)
+
+[ç½‘ç»œç¼–ç¨‹](http://shenshanlaoyuan.com/PythonTraining/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/html%E7%89%88/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B-%E5%85%A8%E9%83%A8%E8%AF%BE%E4%BB%B6/)
+
+[webæœåŠ¡å™¨æ¡ˆä¾‹](http://shenshanlaoyuan.com/PythonTraining/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B/Web%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%A1%88%E4%BE%8B/Web%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%A1%88%E4%BE%8B%E8%AF%BE%E4%BB%B6/)
+
+[æ­£åˆ™è¡¨è¾¾å¼](http://shenshanlaoyuan.com/PythonTraining/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%AF%BE%E4%BB%B6/)
+## 3.æ•°æ®ç»“æ„ä¸ç®—æ³•
 []()
-## 4.Êı¾İ¿â
+## 4.æ•°æ®åº“
 []()
-## 5.Ç°¶Ë
+## 5.å‰ç«¯
 []()
 ## 6.Django
 []()
-## 7.ÅÀ³æ
+## 7.çˆ¬è™«
 []()
 ## 8.Tornado
 []()
-## 9.shellºÍ×Ô¶¯»¯ÔËÎ¬
+## 9.shellå’Œè‡ªåŠ¨åŒ–è¿ç»´
 []()
